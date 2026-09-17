@@ -1,0 +1,46 @@
+name: Update groundwater data
+
+on:
+  workflow_dispatch:
+    inputs:
+      commit_csvs:
+        description: "Commit updated CSVs back to the repo"
+        type: boolean
+        default: true
+
+  # Daily automatic runs: un-comment to enable (times are UTC;
+  # 18:00 UTC = 23:30 Sri Lanka time, after the day's last readings).
+  # schedule:
+  #   - cron: "0 18 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  record:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Record latest readings
+        run: python recorder.py update
+
+      - name: Record latest rain-gauge readings
+        run: python recorder.py update --rain
+
+      - name: Commit updated CSVs
+        if: ${{ inputs.commit_csvs }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data data-rain
+          if git diff --cached --quiet; then
+            echo "No new data"
+          else
+            git commit -m "Record groundwater readings for $(date -u +%F) [skip ci]"
+            git push
+          fi

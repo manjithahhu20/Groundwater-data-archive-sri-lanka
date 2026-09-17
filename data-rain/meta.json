@@ -1,0 +1,54 @@
+{
+  "JAF-MON-035-RAIN": {
+    "name": "Near point pedro WSS",
+    "recorded_at": "17-09-2026 12:41"
+  },
+  "KUB-MON-004-RAIN": {
+    "name": "Elrado Somagama Tea Estate- Lunugala",
+    "recorded_at": "17-09-2026 12:31"
+  },
+  "KUB-MON-013-RAIN": {
+    "name": "WRB office - Monaragala",
+    "recorded_at": "17-09-2026 12:31"
+  },
+  "MAD-MON-003-RAIN": {
+    "name": "Base Hospital - Ekiriyankumbura",
+    "recorded_at": "17-09-2026 12:31"
+  },
+  "MAD-MON-012-RAIN": {
+    "name": "Nelumwewa",
+    "recorded_at": "17-09-2026 12:31"
+  },
+  "MAL-MON-001-RAIN": {
+    "name": "Ikirigollawa CBO Well",
+    "recorded_at": "17-09-2026 12:43"
+  },
+  "MAL-MON-027-RAIN": {
+    "name": "Galkadawala Rd - Palugaswewa",
+    "recorded_at": "17-09-2026 12:32"
+  },
+  "MAL-MON-033-RAIN": {
+    "name": "Alambagaskada - Sri Nigrodharamaya",
+    "recorded_at": "17-09-2026 12:32"
+  },
+  "MAL-MON-039-RAIN": {
+    "name": "Galenbidunuwewa - Himbutugollewa",
+    "recorded_at": "17-09-2026 12:32"
+  },
+  "PUT_MON_007-RAIN": {
+    "name": "PUT_MON_007-RAIN",
+    "recorded_at": "17-09-2026 12:32"
+  },
+  "PUT_MON_012-RAIN": {
+    "name": "PUT_MON_012-RAIN",
+    "recorded_at": "17-09-2026 12:33"
+  },
+  "PUT_MON_029-RAIN": {
+    "name": "PUT_MON_029-RAIN",
+    "recorded_at": "17-09-2026 12:33"
+  },
+  "PUT_MON_036-RAIN": {
+    "name": "PUT_MON_036-RAIN",
+    "recorded_at": "17-09-2026 12:33"
+  }
+}
