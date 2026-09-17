@@ -1,7 +1,7 @@
 # well_id: KUB-MON-038
 # location: Karavila - Village - Badalkumbura
 # recorded_at: 17-09-2026 11:24 (site local time)
-# units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum, as served by the dashboard)
+# units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum - as served by the dashboard)
 date,time,value
 21-08-2022,16:25,27339.46
 21-08-2022,16:30,27340.06

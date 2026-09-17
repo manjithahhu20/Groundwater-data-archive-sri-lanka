@@ -1,7 +1,7 @@
 # well_id: PUT-MON-012
 # location: Provincial office - Water Resources Board - Puttalam
 # recorded_at: 17-09-2026 11:38 (site local time)
-# units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum, as served by the dashboard)
+# units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum - as served by the dashboard)
 date,time,value
 19-10-2022,15:10,88.02
 19-10-2022,15:15,86.58

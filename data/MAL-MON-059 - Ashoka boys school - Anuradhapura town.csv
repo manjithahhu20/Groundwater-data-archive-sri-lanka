@@ -1,7 +1,7 @@
 # well_id: MAL-MON-059
 # location: Ashoka boys school - Anuradhapura town
 # recorded_at: 17-09-2026 11:11 (site local time)
-# units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum, as served by the dashboard)
+# units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum - as served by the dashboard)
 date,time,value
 01-01-2022,00:00,7580.53
 01-01-2022,00:05,7579.92

@@ -1,7 +1,7 @@
 # well_id: JAF-MON-047
 # location: N.Senthooran - Thanankilappu
 # recorded_at: 17-09-2026 11:17 (site local time)
-# units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum, as served by the dashboard)
+# units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum - as served by the dashboard)
 date,time,value
 13-08-2022,07:40,21.21
 13-08-2022,07:45,20.45

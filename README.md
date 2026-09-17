@@ -17,7 +17,7 @@ respect comments, harmless otherwise), then one row per hourly reading:
 # well_id: JAF-MON-010
 # location: Rajathurai Rjatheepan - Valalai Atchuvely
 # recorded_at: 17-09-2026 10:56 (site local time)
-# units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum, as served by the dashboard)
+# units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum - as served by the dashboard)
 date,time,value
 01-09-2026,00:30,16.69
 ...

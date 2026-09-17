@@ -1,7 +1,7 @@
 # well_id: JAF-MON-052
 # location: Tellippalai
 # recorded_at: 17-09-2026 11:17 (site local time)
-# units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum, as served by the dashboard)
+# units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum - as served by the dashboard)
 date,time,value
 09-08-2022,09:10,15.5
 09-08-2022,09:15,15.78

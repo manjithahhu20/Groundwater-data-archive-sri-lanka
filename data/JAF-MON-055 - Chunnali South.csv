@@ -1,7 +1,7 @@
 # well_id: JAF-MON-055
 # location: Chunnali South
 # recorded_at: 17-09-2026 11:18 (site local time)
-# units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum, as served by the dashboard)
+# units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum - as served by the dashboard)
 date,time,value
 12-08-2022,05:15,1.24
 12-08-2022,05:20,2.78

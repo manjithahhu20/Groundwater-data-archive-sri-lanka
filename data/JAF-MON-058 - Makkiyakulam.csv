@@ -1,7 +1,7 @@
 # well_id: JAF-MON-058
 # location: Makkiyakulam
 # recorded_at: 17-09-2026 08:01 (site local time)
-# units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum, as served by the dashboard)
+# units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum - as served by the dashboard)
 date,time,value
 13-08-2022,07:05,31.84
 13-08-2022,07:10,31.84

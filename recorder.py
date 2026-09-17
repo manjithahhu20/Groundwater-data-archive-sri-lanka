@@ -51,7 +51,7 @@ META_FILE = "meta.json"
 CSV_HEADER = ["date", "time", "value"]
 # Units as served by the site; emitted in every CSV's '# units:' header line
 # and documented in the README's 'Variables & units' section.
-UNITS_GROUNDWATER = "groundwater level in cmNAP (centimetres relative to the NAP sea-level datum, as served by the dashboard)"
+UNITS_GROUNDWATER = "groundwater level in cmNAP (centimetres relative to the NAP sea-level datum - as served by the dashboard)"
 UNITS_RAIN = "hourly rainfall in mm (a missing row means no rain in that hour)"
 # Station ids look like JAF-MON-010 (groundwater) or MAL-MON-001-RAIN /
 # PUT_MON_007-RAIN (rain gauges, mixed dash/underscore forms on the site).

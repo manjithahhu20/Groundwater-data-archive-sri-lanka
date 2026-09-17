@@ -1,7 +1,7 @@
 # well_id: MAD-MON-012
 # location: Nelamwewa
 # recorded_at: 17-09-2026 11:27 (site local time)
-# units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum, as served by the dashboard)
+# units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum - as served by the dashboard)
 date,time,value
 01-01-2022,00:30,4228.62
 01-01-2022,01:30,4227.86

@@ -1,7 +1,7 @@
 # well_id: MAL-MON-056
 # location: Near 5/3 culvert at Veppankulam-Marudamadu road
 # recorded_at: 17-09-2026 08:03 (site local time)
-# units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum, as served by the dashboard)
+# units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum - as served by the dashboard)
 date,time,value
 01-01-2022,00:30,347.13
 01-01-2022,01:30,347.7

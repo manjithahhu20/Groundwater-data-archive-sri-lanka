@@ -1,7 +1,7 @@
 # well_id: PUT-MON-038
 # location: Pera Karattan - Mangala Eliya
 # recorded_at: 17-09-2026 11:56 (site local time)
-# units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum, as served by the dashboard)
+# units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum - as served by the dashboard)
 date,time,value
 31-10-2022,09:35,-1150.08
 31-10-2022,09:40,-1149.72

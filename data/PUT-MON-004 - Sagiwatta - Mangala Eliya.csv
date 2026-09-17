@@ -1,7 +1,7 @@
 # well_id: PUT-MON-004
 # location: Sagiwatta - Mangala Eliya
 # recorded_at: 17-09-2026 11:38 (site local time)
-# units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum, as served by the dashboard)
+# units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum - as served by the dashboard)
 date,time,value
 20-10-2022,11:00,82.97
 20-10-2022,11:05,83.69

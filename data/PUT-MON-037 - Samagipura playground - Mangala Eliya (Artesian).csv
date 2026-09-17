@@ -1,7 +1,7 @@
 # well_id: PUT-MON-037
 # location: Samagipura playground - Mangala Eliya (Artesian)
 # recorded_at: 17-09-2026 11:43 (site local time)
-# units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum, as served by the dashboard)
+# units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum - as served by the dashboard)
 date,time,value
 20-10-2022,10:35,45.05
 20-10-2022,10:40,43.98
