@@ -8,10 +8,10 @@ on:
         type: boolean
         default: true
 
-  # Daily automatic runs: un-comment to enable (times are UTC;
-  # 18:00 UTC = 23:30 Sri Lanka time, after the day's last readings).
-  # schedule:
-  #   - cron: "0 18 * * *"
+  # Daily automatic runs (18:00 UTC = 23:30 Sri Lanka time, after the
+  # day's last readings).
+  schedule:
+    - cron: "0 18 * * *"
 
 permissions:
   contents: write

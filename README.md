@@ -85,15 +85,11 @@ Any daily trigger works, e.g. cron at 03:00:
 
 ## GitHub Actions
 
-The repo includes `.github/workflows/update.yml`. Once this project is pushed
-to GitHub:
+The repo includes `.github/workflows/update.yml`, which runs **daily at 18:00 UTC**
+(23:30 Sri Lanka time) and can also be triggered manually from the **Actions** tab:
 
-1. Open the **Actions** tab and run **"Update groundwater data"** manually
-   (workflow_dispatch) to confirm it works.
-2. When ready for automatic daily runs, un-comment the `schedule:` block at
-   the top of the workflow. Times are UTC — adjust to catch the day's last
-   readings (Sri Lanka is UTC+5:30).
-3. Each run appends new rows to the per-well CSVs and commits them back to the
+1. Run **"Update groundwater data"** manually (workflow_dispatch) to confirm it works.
+2. Each run appends new rows to the per-well CSVs and commits them back to the
    repository with `[skip ci]` so it doesn't re-trigger itself.
 
 To record without committing to a repo, run the workflow with the
@@ -110,3 +106,17 @@ Reverse-engineered endpoints (the same ones the dashboard's JavaScript uses):
 
 Values are recorded exactly as served; no unit conversion or timezone
 conversion is applied.
+
+## Data provenance & license
+
+- **Source:** Sri Lanka National Groundwater Monitoring Network dashboard,
+  <https://grondwater.webscada.nl/gwmn/> (National Water Supply & Drainage
+  Board / Water Resources Board). All readings are public telemetry as served
+  by the dashboard, recorded verbatim.
+- **This archive** (the CSVs in `data/` and `data-rain/`, plus the recorder
+  script) is released under
+  [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) — you may use,
+  redistribute, and build on it without restriction. Attribution of the
+  upstream network is appreciated but not required.
+
+[![Update groundwater data](https://github.com/manjithahhu20/Groundwater-data-archive-sri-lanka/actions/workflows/update.yml/badge.svg)](https://github.com/manjithahhu20/Groundwater-data-archive-sri-lanka/actions/workflows/update.yml)

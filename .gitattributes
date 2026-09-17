@@ -1,0 +1,9 @@
+# Normalize line endings: the daily Actions runner (Linux) and local Windows
+# checkouts must produce byte-identical CSVs, otherwise every update rewrites
+# whole files. Text files are stored with LF in the repo.
+* text=auto
+*.csv text eol=lf
+*.json text eol=lf
+*.py text eol=lf
+*.yml text eol=lf
+*.md text eol=lf
