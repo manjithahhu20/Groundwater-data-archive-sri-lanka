@@ -1,6 +1,7 @@
 # well_id: PUT-MON-029
 # location: Gangewadiya (Artesian)
 # recorded_at: 17-09-2026 11:41 (site local time)
+# units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum, as served by the dashboard)
 date,time,value
 29-11-2022,09:50,319.15
 29-11-2022,09:55,318.46

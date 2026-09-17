@@ -1,6 +1,7 @@
 # well_id: KUB-MON-004
 # location: Elrado Somagama Tea Estate-Lunugala
 # recorded_at: 17-09-2026 11:52 (site local time)
+# units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum, as served by the dashboard)
 date,time,value
 18-04-2022,10:30,78873.88
 18-04-2022,11:30,78873.9

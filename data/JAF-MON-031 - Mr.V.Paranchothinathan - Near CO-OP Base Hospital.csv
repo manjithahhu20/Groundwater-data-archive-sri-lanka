@@ -1,6 +1,7 @@
 # well_id: JAF-MON-031
 # location: Mr.V.Paranchothinathan - Near CO-OP Base Hospital
 # recorded_at: 17-09-2026 11:15 (site local time)
+# units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum, as served by the dashboard)
 date,time,value
 09-08-2022,08:10,36.44
 09-08-2022,08:15,35.68

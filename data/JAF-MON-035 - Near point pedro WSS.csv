@@ -1,6 +1,7 @@
 # well_id: JAF-MON-035
 # location: Near point pedro WSS
 # recorded_at: 17-09-2026 12:00 (site local time)
+# units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum, as served by the dashboard)
 date,time,value
 15-08-2022,10:50,28.24
 15-08-2022,10:55,27.53

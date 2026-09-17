@@ -17,6 +17,7 @@ respect comments, harmless otherwise), then one row per hourly reading:
 # well_id: JAF-MON-010
 # location: Rajathurai Rjatheepan - Valalai Atchuvely
 # recorded_at: 17-09-2026 10:56 (site local time)
+# units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum, as served by the dashboard)
 date,time,value
 01-09-2026,00:30,16.69
 ...
@@ -106,6 +107,23 @@ Reverse-engineered endpoints (the same ones the dashboard's JavaScript uses):
 
 Values are recorded exactly as served; no unit conversion or timezone
 conversion is applied.
+
+
+## Variables & units
+
+
+| Dataset | `value` column | Timestamps |
+|---|---|---|
+| Groundwater (`data/`) | **cmNAP** — centimetres relative to the NAP sea-level datum, exactly as served by the dashboard (e.g. `5561.49` = 55.6 m above sea level; negative values = below datum) | Site local time (Sri Lanka, UTC+5:30), one row per hour |
+| Rainfall (`data-rain/`) | **mm** of rain per hour | Site local time; rows exist only for hours with rain — a missing row means no rain, not missing data |
+
+
+Every CSV also carries a `# units:` comment line stating this, so each file is
+self-describing when read in isolation. The recorder applies no unit or datum
+conversion. One caveat: NAP is a Dutch reference datum applied site-wide by
+the dashboard, so treat cmNAP as "centimetres relative to the site's
+sea-level reference" — it is consistent within each well, which is what
+matters for trend analysis.
 
 ## Data provenance & license
 

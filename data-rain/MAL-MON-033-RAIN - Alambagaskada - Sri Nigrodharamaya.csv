@@ -1,6 +1,7 @@
 # well_id: MAL-MON-033-RAIN
 # location: Alambagaskada - Sri Nigrodharamaya
 # recorded_at: 17-09-2026 12:32 (site local time)
+# units: hourly rainfall in mm (a missing row means no rain in that hour)
 date,time,value
 01-01-2022,02:30,0.5
 01-01-2022,04:30,2

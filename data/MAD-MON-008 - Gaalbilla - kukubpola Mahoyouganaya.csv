@@ -1,6 +1,7 @@
 # well_id: MAD-MON-008
 # location: Gaalbilla - kukubpola Mahoyouganaya
 # recorded_at: 17-09-2026 11:26 (site local time)
+# units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum, as served by the dashboard)
 date,time,value
 01-01-2022,00:00,12078.644
 01-01-2022,00:05,12079.269

@@ -1,6 +1,7 @@
 # well_id: MAL-MON-075
 # location: Muthaliyarkulam school - Vengalacheddikulam
 # recorded_at: 17-09-2026 11:34 (site local time)
+# units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum, as served by the dashboard)
 date,time,value
 01-01-2022,00:30,5095.87
 01-01-2022,01:30,5096.64

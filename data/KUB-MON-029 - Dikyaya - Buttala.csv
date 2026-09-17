@@ -1,6 +1,7 @@
 # well_id: KUB-MON-029
 # location: Dikyaya - Buttala
 # recorded_at: 17-09-2026 11:24 (site local time)
+# units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum, as served by the dashboard)
 date,time,value
 01-01-2022,00:30,16644.95
 01-01-2022,01:30,16643.52

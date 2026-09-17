@@ -1,6 +1,7 @@
 # well_id: MAL-MON-051
 # location: Near 53/1 Culvert and Right Handside in Medawachchi-Mannar road - Thampanaikulam
 # recorded_at: 17-09-2026 11:32 (site local time)
+# units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum, as served by the dashboard)
 date,time,value
 01-01-2022,00:30,1216.54
 01-01-2022,01:30,1216.54

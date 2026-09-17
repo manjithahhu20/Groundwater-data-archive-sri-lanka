@@ -1,6 +1,7 @@
 # well_id: MAL-MON-004
 # location: Karikkamurippu village - Nanattan
 # recorded_at: 17-09-2026 11:03 (site local time)
+# units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum, as served by the dashboard)
 date,time,value
 01-01-2022,00:30,318.53
 01-01-2022,01:30,317.09

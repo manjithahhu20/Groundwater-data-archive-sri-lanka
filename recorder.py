@@ -49,6 +49,10 @@ MAX_RETRIES = 3
 RETRY_BACKOFF = 3  # seconds
 META_FILE = "meta.json"
 CSV_HEADER = ["date", "time", "value"]
+# Units as served by the site; emitted in every CSV's '# units:' header line
+# and documented in the README's 'Variables & units' section.
+UNITS_GROUNDWATER = "groundwater level in cmNAP (centimetres relative to the NAP sea-level datum, as served by the dashboard)"
+UNITS_RAIN = "hourly rainfall in mm (a missing row means no rain in that hour)"
 # Station ids look like JAF-MON-010 (groundwater) or MAL-MON-001-RAIN /
 # PUT_MON_007-RAIN (rain gauges, mixed dash/underscore forms on the site).
 STATION_ID_RE = re.compile(r"[A-Z]+[_-][A-Z]+[_-][0-9]+(?:-RAIN)?$")
@@ -280,10 +284,15 @@ def write_stored_rows(data_dir: str, names: dict[str, str], well: str, rows: lis
     _save_meta_store(data_dir, meta)
     rows = sorted(rows, key=lambda r: (datetime.strptime(r[0], "%d-%m-%Y"), r[1]))
     with open(csv_path(data_dir, names, well), "w", newline="", encoding="utf-8") as fh:
+        # '#' comment lines are written raw: csv.writer would quote any line
+        # containing a comma, but these lines must stay unquoted to match the
+        # headers already in the archive and read cleanly as comments.
+        units = UNITS_RAIN if well.endswith("-RAIN") else UNITS_GROUNDWATER
+        fh.write(f"# well_id: {well}\r\n")
+        fh.write(f"# location: {name}\r\n")
+        fh.write(f"# recorded_at: {meta[well]['recorded_at']} (site local time)\r\n")
+        fh.write(f"# units: {units}\r\n")
         writer = csv.writer(fh)
-        writer.writerow([f"# well_id: {well}"])
-        writer.writerow([f"# location: {name}"])
-        writer.writerow([f"# recorded_at: {meta[well]['recorded_at']} (site local time)"])
         writer.writerow(CSV_HEADER)
         writer.writerows(rows)
 

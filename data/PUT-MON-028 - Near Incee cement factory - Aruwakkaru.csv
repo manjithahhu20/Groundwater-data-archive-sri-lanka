@@ -1,6 +1,7 @@
 # well_id: PUT-MON-028
 # location: Near Incee cement factory - Aruwakkaru
 # recorded_at: 17-09-2026 11:41 (site local time)
+# units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum, as served by the dashboard)
 date,time,value
 30-11-2022,04:30,1331.54
 30-11-2022,05:30,1332.64

@@ -1,6 +1,7 @@
 # well_id: KUB-MON-004-RAIN
 # location: Elrado Somagama Tea Estate- Lunugala
 # recorded_at: 17-09-2026 12:31 (site local time)
+# units: hourly rainfall in mm (a missing row means no rain in that hour)
 date,time,value
 21-08-2022,09:30,1
 26-08-2022,11:30,2

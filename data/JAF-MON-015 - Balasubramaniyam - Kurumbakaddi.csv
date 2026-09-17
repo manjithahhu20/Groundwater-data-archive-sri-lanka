@@ -1,6 +1,7 @@
 # well_id: JAF-MON-015
 # location: Balasubramaniyam - Kurumbakaddi
 # recorded_at: 17-09-2026 10:56 (site local time)
+# units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum, as served by the dashboard)
 date,time,value
 11-08-2022,16:15,15.537
 11-08-2022,16:20,15.537

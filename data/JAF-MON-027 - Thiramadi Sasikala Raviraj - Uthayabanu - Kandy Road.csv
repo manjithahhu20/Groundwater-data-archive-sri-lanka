@@ -1,6 +1,7 @@
 # well_id: JAF-MON-027
 # location: Thiramadi Sasikala Raviraj - Uthayabanu - Kandy Road
 # recorded_at: 17-09-2026 11:15 (site local time)
+# units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum, as served by the dashboard)
 date,time,value
 12-08-2022,10:10,8.42
 12-08-2022,10:15,9.38

@@ -1,6 +1,7 @@
 # well_id: KUB-MON-013-RAIN
 # location: WRB office - Monaragala
 # recorded_at: 17-09-2026 12:31 (site local time)
+# units: hourly rainfall in mm (a missing row means no rain in that hour)
 date,time,value
 21-08-2022,14:30,1
 26-08-2022,10:30,2.5

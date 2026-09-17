@@ -1,6 +1,7 @@
 # well_id: PUT-MON-036
 # location: 637/3 - Karadipuval - Wanathavilluwa
 # recorded_at: 17-09-2026 11:43 (site local time)
+# units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum, as served by the dashboard)
 date,time,value
 18-10-2022,04:45,2296.44
 18-10-2022,04:50,2297.16

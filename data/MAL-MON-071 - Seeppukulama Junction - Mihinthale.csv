@@ -1,6 +1,7 @@
 # well_id: MAL-MON-071
 # location: Seeppukulama Junction - Mihinthale
 # recorded_at: 17-09-2026 11:33 (site local time)
+# units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum, as served by the dashboard)
 date,time,value
 01-01-2022,00:30,9886.05
 01-01-2022,01:30,9889.88

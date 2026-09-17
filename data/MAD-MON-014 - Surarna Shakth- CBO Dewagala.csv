@@ -1,6 +1,7 @@
 # well_id: MAD-MON-014
 # location: Surarna Shakth: CBO Dewagala
 # recorded_at: 17-09-2026 11:53 (site local time)
+# units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum, as served by the dashboard)
 date,time,value
 01-01-2022,00:30,5537.92
 01-01-2022,01:30,5540.07

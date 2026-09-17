@@ -1,6 +1,7 @@
 # well_id: PUT-MON-007
 # location: Paththayama - Madurankuliya
 # recorded_at: 17-09-2026 11:38 (site local time)
+# units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum, as served by the dashboard)
 date,time,value
 02-11-2022,09:16,617
 02-11-2022,09:20,617.25
