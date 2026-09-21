@@ -1,6 +1,6 @@
 # well_id: JAF-MON-046
 # location: Iyakkachchi Junction
-# recorded_at: 21-09-2026 09:11 (site local time)
+# recorded_at: 21-09-2026 21:29 (site local time)
 # units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum - as served by the dashboard)
 date,time,value
 12-08-2022,13:40,153.66
@@ -45373,3 +45373,12 @@ date,time,value
 20-09-2026,10:00,210.74
 20-09-2026,11:00,209.55
 20-09-2026,12:00,210.5
+20-09-2026,13:00,210.37
+20-09-2026,14:00,211.55
+20-09-2026,15:00,211.19
+20-09-2026,16:00,210.33
+20-09-2026,17:00,211.98
+20-09-2026,18:00,212.1
+20-09-2026,19:00,213.18
+20-09-2026,20:00,211.88
+20-09-2026,21:00,212.48
