@@ -33,7 +33,10 @@ jobs:
         run: python recorder.py update --rain
 
       - name: Commit updated CSVs
-        if: ${{ inputs.commit_csvs }}
+        # 'inputs' is only populated for workflow_dispatch events; on
+        # scheduled runs it is empty, which silently skipped this step.
+        # Always commit on schedule; honor the checkbox on manual runs.
+        if: ${{ github.event_name == 'schedule' || inputs.commit_csvs }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
