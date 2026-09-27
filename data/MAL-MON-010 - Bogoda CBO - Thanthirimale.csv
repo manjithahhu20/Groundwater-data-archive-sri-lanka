@@ -1,6 +1,6 @@
 # well_id: MAL-MON-010
 # location: Bogoda CBO - Thanthirimale
-# recorded_at: 26-09-2026 20:28 (site local time)
+# recorded_at: 27-09-2026 20:41 (site local time)
 # units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum - as served by the dashboard)
 date,time,value
 01-01-2022,00:30,5435.03
@@ -35217,3 +35217,4 @@ date,time,value
 26-09-2026,04:00,5314.14
 26-09-2026,05:00,5313.24
 26-09-2026,06:00,5312.21
+26-09-2026,07:00,5312.22

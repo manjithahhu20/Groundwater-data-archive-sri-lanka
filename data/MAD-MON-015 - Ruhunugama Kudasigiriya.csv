@@ -1,6 +1,6 @@
 # well_id: MAD-MON-015
 # location: Ruhunugama Kudasigiriya
-# recorded_at: 26-09-2026 20:28 (site local time)
+# recorded_at: 27-09-2026 20:40 (site local time)
 # units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum - as served by the dashboard)
 date,time,value
 01-01-2022,00:30,9391.55
@@ -41873,3 +41873,10 @@ date,time,value
 26-09-2026,19:00,9092.41
 26-09-2026,20:00,9093.11
 26-09-2026,21:00,9091.68
+26-09-2026,22:00,9093.03
+26-09-2026,23:00,9096.82
+27-09-2026,00:00,9097.45
+27-09-2026,01:00,9100.24
+27-09-2026,02:00,9101.17
+27-09-2026,03:00,9100.73
+27-09-2026,04:00,9101.42
