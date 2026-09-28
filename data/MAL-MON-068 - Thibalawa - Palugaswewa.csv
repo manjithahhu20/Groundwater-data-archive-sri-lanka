@@ -1,6 +1,6 @@
 # well_id: MAL-MON-068
 # location: Thibalawa - Palugaswewa
-# recorded_at: 27-09-2026 20:41 (site local time)
+# recorded_at: 28-09-2026 22:51 (site local time)
 # units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum - as served by the dashboard)
 date,time,value
 01-01-2022,00:00,18290.43
@@ -41614,3 +41614,4 @@ date,time,value
 27-09-2026,20:00,18007.71
 27-09-2026,21:00,18007.41
 27-09-2026,22:00,18006.64
+27-09-2026,23:00,18008.46
