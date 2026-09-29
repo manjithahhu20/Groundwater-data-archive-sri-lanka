@@ -1,6 +1,6 @@
 # well_id: MAL-MON-005
 # location: Puduweli GS Office - Puduweli
-# recorded_at: 27-09-2026 20:40 (site local time)
+# recorded_at: 29-09-2026 21:44 (site local time)
 # units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum - as served by the dashboard)
 date,time,value
 01-01-2022,00:30,262.44
@@ -42132,3 +42132,8 @@ date,time,value
 27-09-2026,12:00,248.68
 27-09-2026,13:00,245.23
 27-09-2026,14:00,244.11
+27-09-2026,15:00,239.75
+27-09-2026,16:00,237.95
+27-09-2026,17:00,235.49
+27-09-2026,18:00,235.03
+27-09-2026,19:00,236.86
