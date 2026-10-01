@@ -1,6 +1,6 @@
 # well_id: JAF-MON-032
 # location: Muththan Mahalingam
-# recorded_at: 30-09-2026 21:43 (site local time)
+# recorded_at: 01-10-2026 22:11 (site local time)
 # units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum - as served by the dashboard)
 date,time,value
 11-08-2022,10:35,57.46
@@ -45992,3 +45992,12 @@ date,time,value
 30-09-2026,13:00,70.99
 30-09-2026,14:00,70.49
 30-09-2026,15:00,68.77
+30-09-2026,16:00,67.53
+30-09-2026,17:00,67.63
+30-09-2026,18:00,67.91
+30-09-2026,19:00,69.04
+30-09-2026,20:00,69.13
+30-09-2026,21:00,70.15
+30-09-2026,22:00,69.32
+30-09-2026,23:00,70.65
+01-10-2026,00:00,70.81

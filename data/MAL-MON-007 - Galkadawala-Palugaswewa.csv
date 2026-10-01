@@ -1,6 +1,6 @@
 # well_id: MAL-MON-007
 # location: Galkadawala-Palugaswewa
-# recorded_at: 30-09-2026 21:44 (site local time)
+# recorded_at: 01-10-2026 22:12 (site local time)
 # units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum - as served by the dashboard)
 date,time,value
 01-01-2022,00:30,15991.69
@@ -41603,3 +41603,6 @@ date,time,value
 30-09-2026,13:00,15840.9
 30-09-2026,14:00,15840.69
 30-09-2026,15:00,15842.99
+30-09-2026,16:00,15840.98
+30-09-2026,17:00,15840.96
+30-09-2026,18:00,15841.16
