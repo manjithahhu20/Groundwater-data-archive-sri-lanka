@@ -1,6 +1,6 @@
 # well_id: KUB-MON-007
 # location: Niyadella village - Maligavila
-# recorded_at: 01-10-2026 22:12 (site local time)
+# recorded_at: 03-10-2026 20:25 (site local time)
 # units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum - as served by the dashboard)
 date,time,value
 01-01-2022,00:30,8666.08
@@ -42182,3 +42182,13 @@ date,time,value
 01-10-2026,14:00,8261.17
 01-10-2026,15:00,8262.49
 01-10-2026,16:00,8265
+01-10-2026,17:00,8265.72
+01-10-2026,18:00,8263.9
+01-10-2026,19:00,8263.05
+01-10-2026,20:00,8259.82
+01-10-2026,21:00,8258.75
+01-10-2026,22:00,8257
+01-10-2026,23:00,8254.76
+02-10-2026,00:00,8256.13
+02-10-2026,01:00,8257.2
+02-10-2026,02:00,8259.03

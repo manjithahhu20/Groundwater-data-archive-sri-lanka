@@ -1,6 +1,6 @@
 # well_id: MAL-MON-029
 # location: A/ Kaluebe school - Megodawewa
-# recorded_at: 29-09-2026 21:44 (site local time)
+# recorded_at: 03-10-2026 20:26 (site local time)
 # units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum - as served by the dashboard)
 date,time,value
 01-01-2022,00:30,15290.34
@@ -34852,3 +34852,10 @@ date,time,value
 27-09-2026,15:00,14982.24
 27-09-2026,16:00,14982.28
 27-09-2026,17:00,14981.33
+27-09-2026,18:00,14981.27
+27-09-2026,19:00,14981.92
+27-09-2026,20:00,14981.51
+27-09-2026,21:00,14982.89
+27-09-2026,22:00,14983
+27-09-2026,23:00,14982.4
+28-09-2026,00:00,14982.03
