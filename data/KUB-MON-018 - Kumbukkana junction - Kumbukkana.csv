@@ -1,6 +1,6 @@
 # well_id: KUB-MON-018
 # location: Kumbukkana junction - Kumbukkana
-# recorded_at: 04-10-2026 20:43 (site local time)
+# recorded_at: 06-10-2026 22:05 (site local time)
 # units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum - as served by the dashboard)
 date,time,value
 01-01-2022,00:30,13350.33
@@ -42036,3 +42036,4 @@ date,time,value
 04-10-2026,08:00,13311.69
 04-10-2026,09:00,13311.49
 04-10-2026,10:00,13308.43
+04-10-2026,11:00,13310.23

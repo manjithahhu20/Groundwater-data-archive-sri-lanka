@@ -1,6 +1,6 @@
 # well_id: MAD-MON-010
 # location: New janashakthi CBO Track-os
-# recorded_at: 04-10-2026 20:44 (site local time)
+# recorded_at: 06-10-2026 22:05 (site local time)
 # units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum - as served by the dashboard)
 date,time,value
 01-01-2022,00:30,5667.68
@@ -41312,3 +41312,4 @@ date,time,value
 04-10-2026,07:00,5748.01
 04-10-2026,08:00,5749.07
 04-10-2026,09:00,5748.36
+04-10-2026,10:00,5745.15
