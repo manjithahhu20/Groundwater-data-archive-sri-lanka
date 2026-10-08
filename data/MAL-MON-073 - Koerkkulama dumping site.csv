@@ -1,6 +1,6 @@
 # well_id: MAL-MON-073
 # location: Koerkkulama dumping site
-# recorded_at: 25-09-2026 20:58 (site local time)
+# recorded_at: 08-10-2026 22:44 (site local time)
 # units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum - as served by the dashboard)
 date,time,value
 01-01-2022,00:30,9840.9
@@ -41378,3 +41378,5 @@ date,time,value
 21-09-2026,07:00,9709.07
 21-09-2026,08:00,9709.22
 21-09-2026,09:00,9710.14
+21-09-2026,10:00,9709.93
+21-09-2026,11:00,9709.56
