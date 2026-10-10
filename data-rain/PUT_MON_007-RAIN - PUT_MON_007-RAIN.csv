@@ -1,6 +1,6 @@
 # well_id: PUT_MON_007-RAIN
 # location: PUT_MON_007-RAIN
-# recorded_at: 09-10-2026 22:07 (site local time)
+# recorded_at: 10-10-2026 21:01 (site local time)
 # units: hourly rainfall in mm (a missing row means no rain in that hour)
 date,time,value
 02-11-2022,09:30,1
@@ -2046,3 +2046,10 @@ date,time,value
 08-10-2026,04:30,0.5
 08-10-2026,11:30,10
 08-10-2026,12:30,55
+09-10-2026,04:30,0.5
+09-10-2026,14:30,25
+09-10-2026,15:30,3
+09-10-2026,16:30,20.5
+09-10-2026,17:30,4.5
+09-10-2026,18:30,8.5
+09-10-2026,19:30,0.5
