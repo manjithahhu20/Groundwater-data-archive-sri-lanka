@@ -1,6 +1,6 @@
 # well_id: PUT-MON-022
 # location: Mahalawilluwa - Karathiv
-# recorded_at: 10-10-2026 21:00 (site local time)
+# recorded_at: 11-10-2026 21:21 (site local time)
 # units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum - as served by the dashboard)
 date,time,value
 18-10-2022,12:45,2287.62
@@ -40746,3 +40746,6 @@ date,time,value
 10-10-2026,08:00,2287.09
 10-10-2026,09:00,2288.38
 10-10-2026,10:00,2289.46
+10-10-2026,11:00,2291.42
+10-10-2026,12:00,2294.26
+10-10-2026,13:00,2296.38

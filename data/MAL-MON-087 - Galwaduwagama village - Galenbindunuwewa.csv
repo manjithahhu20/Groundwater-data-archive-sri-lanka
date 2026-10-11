@@ -1,6 +1,6 @@
 # well_id: MAL-MON-087
 # location: Galwaduwagama village - Galenbindunuwewa
-# recorded_at: 10-10-2026 21:00 (site local time)
+# recorded_at: 11-10-2026 21:21 (site local time)
 # units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum - as served by the dashboard)
 date,time,value
 01-01-2022,00:30,12066.89
@@ -41016,3 +41016,6 @@ date,time,value
 10-10-2026,13:00,11977.77
 10-10-2026,14:00,11977.45
 10-10-2026,15:00,11977.83
+10-10-2026,16:00,11977.46
+10-10-2026,17:00,11976.68
+10-10-2026,18:00,11976.37
