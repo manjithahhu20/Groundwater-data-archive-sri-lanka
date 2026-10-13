@@ -1,6 +1,6 @@
 # well_id: MAL-MON-027-RAIN
 # location: Galkadawala Rd - Palugaswewa
-# recorded_at: 10-10-2026 21:01 (site local time)
+# recorded_at: 13-10-2026 00:06 (site local time)
 # units: hourly rainfall in mm (a missing row means no rain in that hour)
 date,time,value
 01-01-2022,11:30,9
@@ -2910,3 +2910,8 @@ date,time,value
 09-10-2026,11:30,25
 09-10-2026,12:30,2.5
 09-10-2026,20:30,0.5
+11-10-2026,07:30,0.5
+11-10-2026,09:30,9.5
+11-10-2026,10:30,0.5
+12-10-2026,01:30,0.5
+12-10-2026,02:30,2

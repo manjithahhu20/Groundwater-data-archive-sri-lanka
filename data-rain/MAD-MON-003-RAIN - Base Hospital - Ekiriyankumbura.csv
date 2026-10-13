@@ -1,6 +1,6 @@
 # well_id: MAD-MON-003-RAIN
 # location: Base Hospital - Ekiriyankumbura
-# recorded_at: 10-10-2026 21:01 (site local time)
+# recorded_at: 13-10-2026 00:06 (site local time)
 # units: hourly rainfall in mm (a missing row means no rain in that hour)
 date,time,value
 01-01-2022,01:30,1.5
@@ -1991,3 +1991,6 @@ date,time,value
 08-10-2026,18:30,0.5
 09-10-2026,11:30,4.5
 09-10-2026,12:30,0.5
+11-10-2026,10:30,8
+11-10-2026,15:30,4
+11-10-2026,19:30,0.5
