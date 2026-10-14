@@ -1,6 +1,6 @@
 # well_id: PUT-MON-030
 # location: 635/2 - Rahalmaduwa - Eluwankulama
-# recorded_at: 13-10-2026 22:11 (site local time)
+# recorded_at: 14-10-2026 21:12 (site local time)
 # units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum - as served by the dashboard)
 date,time,value
 19-10-2022,13:15,985.34
@@ -40773,3 +40773,14 @@ date,time,value
 13-10-2026,07:00,1179.47
 13-10-2026,08:00,1181.92
 13-10-2026,09:00,1177.87
+13-10-2026,10:00,1181.53
+13-10-2026,11:00,1184.09
+13-10-2026,12:00,1181.62
+13-10-2026,13:00,1183.34
+13-10-2026,14:00,1181.83
+13-10-2026,15:00,1178.65
+13-10-2026,16:00,1179.16
+13-10-2026,17:00,1177.93
+13-10-2026,18:00,1180.88
+13-10-2026,19:00,1181.41
+13-10-2026,20:00,1181.99
