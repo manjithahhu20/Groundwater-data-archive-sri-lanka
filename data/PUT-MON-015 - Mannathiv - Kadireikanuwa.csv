@@ -1,6 +1,6 @@
 # well_id: PUT-MON-015
 # location: Mannathiv - Kadireikanuwa
-# recorded_at: 13-10-2026 22:10 (site local time)
+# recorded_at: 15-10-2026 20:50 (site local time)
 # units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum - as served by the dashboard)
 date,time,value
 17-10-2022,10:20,-179.99
@@ -40517,3 +40517,10 @@ date,time,value
 13-10-2026,14:00,-4.37
 13-10-2026,15:00,-1.8
 13-10-2026,16:00,-3.18
+13-10-2026,17:00,-6.13
+13-10-2026,18:00,-8.09
+13-10-2026,19:00,-9.76
+13-10-2026,20:00,-10.46
+13-10-2026,21:00,-11.36
+13-10-2026,22:00,-11.32
+13-10-2026,23:00,-10.52

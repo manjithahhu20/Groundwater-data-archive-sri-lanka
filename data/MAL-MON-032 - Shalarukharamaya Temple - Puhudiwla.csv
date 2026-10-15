@@ -1,6 +1,6 @@
 # well_id: MAL-MON-032
 # location: Shalarukharamaya Temple - Puhudiwla
-# recorded_at: 14-10-2026 21:10 (site local time)
+# recorded_at: 15-10-2026 20:49 (site local time)
 # units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum - as served by the dashboard)
 date,time,value
 01-01-2022,00:30,9831.66
@@ -41056,3 +41056,9 @@ date,time,value
 14-10-2026,19:30,9644.6
 14-10-2026,20:30,9645.04
 14-10-2026,21:30,9645.04
+14-10-2026,22:30,9644.88
+14-10-2026,23:30,9645.32
+15-10-2026,00:30,9645.43
+15-10-2026,01:30,9644.84
+15-10-2026,02:30,9646.12
+15-10-2026,03:30,9646.12
