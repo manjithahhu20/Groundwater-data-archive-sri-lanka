@@ -1,6 +1,6 @@
 # well_id: KUB-MON-015
 # location: Amunekandura - Medagama
-# recorded_at: 08-10-2026 22:42 (site local time)
+# recorded_at: 16-10-2026 20:20 (site local time)
 # units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum - as served by the dashboard)
 date,time,value
 01-01-2022,00:30,17846.68
@@ -36331,3 +36331,4 @@ date,time,value
 03-10-2026,06:00,17697
 03-10-2026,07:00,17696.81
 03-10-2026,08:00,17696.27
+03-10-2026,09:00,17696.68
