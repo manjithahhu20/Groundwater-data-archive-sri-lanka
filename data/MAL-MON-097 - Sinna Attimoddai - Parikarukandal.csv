@@ -1,6 +1,6 @@
 # well_id: MAL-MON-097
 # location: Sinna Attimoddai - Parikarukandal
-# recorded_at: 16-10-2026 20:22 (site local time)
+# recorded_at: 17-10-2026 19:57 (site local time)
 # units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum - as served by the dashboard)
 date,time,value
 01-01-2022,00:30,327.48
@@ -41994,3 +41994,11 @@ date,time,value
 16-10-2026,09:00,232.38
 16-10-2026,10:00,233.66
 16-10-2026,11:00,233.66
+16-10-2026,12:00,235.93
+16-10-2026,13:00,237.42
+16-10-2026,14:00,237.44
+16-10-2026,15:00,236.27
+16-10-2026,16:00,234.96
+16-10-2026,17:00,234.59
+16-10-2026,18:00,232.93
+16-10-2026,19:00,233.28
