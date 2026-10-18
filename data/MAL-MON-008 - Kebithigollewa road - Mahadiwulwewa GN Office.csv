@@ -1,6 +1,6 @@
 # well_id: MAL-MON-008
 # location: Kebithigollewa road - Mahadiwulwewa GN Office
-# recorded_at: 16-10-2026 20:21 (site local time)
+# recorded_at: 18-10-2026 19:56 (site local time)
 # units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum - as served by the dashboard)
 date,time,value
 01-01-2022,00:30,10375.46
@@ -42336,3 +42336,13 @@ date,time,value
 16-10-2026,10:00,10080.08
 16-10-2026,11:00,10080.2
 16-10-2026,12:00,10080.2
+16-10-2026,13:00,10080.68
+16-10-2026,14:00,10081.48
+16-10-2026,15:00,10080.59
+16-10-2026,16:00,10081.38
+16-10-2026,17:00,10081.71
+16-10-2026,18:00,10081.28
+16-10-2026,19:00,10081.96
+16-10-2026,20:00,10083.04
+16-10-2026,21:00,10083.49
+16-10-2026,22:00,10084
