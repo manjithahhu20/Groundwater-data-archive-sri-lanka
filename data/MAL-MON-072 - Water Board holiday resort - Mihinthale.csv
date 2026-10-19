@@ -1,6 +1,6 @@
 # well_id: MAL-MON-072
 # location: Water Board holiday resort - Mihinthale
-# recorded_at: 18-10-2026 19:57 (site local time)
+# recorded_at: 19-10-2026 21:55 (site local time)
 # units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum - as served by the dashboard)
 date,time,value
 01-01-2022,00:30,10267.04
@@ -41662,3 +41662,4 @@ date,time,value
 18-10-2026,12:30,10223.88
 18-10-2026,13:30,10223.9
 18-10-2026,14:30,10223.9
+18-10-2026,15:30,10223.73
