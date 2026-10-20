@@ -1,6 +1,6 @@
 # well_id: MAL-MON-013
 # location: Medawachchiya court - Medawachchiya
-# recorded_at: 19-10-2026 21:55 (site local time)
+# recorded_at: 20-10-2026 21:05 (site local time)
 # units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum - as served by the dashboard)
 date,time,value
 01-01-2022,00:30,8328.07
@@ -38359,3 +38359,4 @@ date,time,value
 16-10-2026,16:00,8583.66
 16-10-2026,17:00,8584.46
 16-10-2026,18:00,8584.26
+16-10-2026,19:00,8585.68
