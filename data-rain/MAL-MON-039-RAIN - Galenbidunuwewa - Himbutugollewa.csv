@@ -1,6 +1,6 @@
 # well_id: MAL-MON-039-RAIN
 # location: Galenbidunuwewa - Himbutugollewa
-# recorded_at: 22-10-2026 21:05 (site local time)
+# recorded_at: 23-10-2026 20:54 (site local time)
 # units: hourly rainfall in mm (a missing row means no rain in that hour)
 date,time,value
 01-01-2022,06:30,1.5
@@ -2284,3 +2284,8 @@ date,time,value
 21-10-2026,17:30,5
 21-10-2026,18:30,1.5
 22-10-2026,00:30,0.5
+22-10-2026,09:30,2.5
+22-10-2026,10:30,2.5
+22-10-2026,11:30,2.5
+22-10-2026,17:30,0.5
+23-10-2026,00:30,0.5
