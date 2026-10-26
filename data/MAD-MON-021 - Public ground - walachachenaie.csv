@@ -1,6 +1,6 @@
 # well_id: MAD-MON-021
 # location: Public ground - walachachenaie
-# recorded_at: 25-10-2026 20:13 (site local time)
+# recorded_at: 26-10-2026 22:09 (site local time)
 # units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum - as served by the dashboard)
 date,time,value
 01-01-2022,00:30,264.52
@@ -42181,3 +42181,10 @@ date,time,value
 24-10-2026,21:00,144.49
 24-10-2026,22:00,144.13
 24-10-2026,23:00,144.43
+25-10-2026,19:00,149.97
+25-10-2026,20:00,149.97
+25-10-2026,21:00,149.97
+25-10-2026,22:00,149.97
+25-10-2026,23:00,150.92
+26-10-2026,00:00,149.01
+26-10-2026,01:00,149.97

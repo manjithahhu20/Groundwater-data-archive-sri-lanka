@@ -1,6 +1,6 @@
 # well_id: MAL-MON-092
 # location: Nochchikulama Tamil School - Nochchikulama
-# recorded_at: 25-10-2026 20:14 (site local time)
+# recorded_at: 26-10-2026 22:10 (site local time)
 # units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum - as served by the dashboard)
 date,time,value
 01-01-2022,00:30,288.73
@@ -42176,3 +42176,12 @@ date,time,value
 24-10-2026,15:30,256.79
 24-10-2026,16:30,255.71
 24-10-2026,17:30,255.71
+24-10-2026,18:30,244.76
+24-10-2026,19:30,244.58
+24-10-2026,20:30,247.87
+24-10-2026,21:30,249.27
+24-10-2026,22:30,252.95
+24-10-2026,23:30,254.28
+25-10-2026,00:30,254.05
+25-10-2026,01:30,253.91
+25-10-2026,02:30,250.98
