@@ -1,6 +1,6 @@
 # well_id: MAD-MON-020
 # location: Gandinagar - walchchana
-# recorded_at: 03-11-2026 22:45 (site local time)
+# recorded_at: 05-11-2026 23:06 (site local time)
 # units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum - as served by the dashboard)
 date,time,value
 01-01-2022,00:30,367.09
@@ -42351,3 +42351,4 @@ date,time,value
 03-11-2026,06:00,240.93
 03-11-2026,07:00,242.3
 03-11-2026,08:00,240.57
+03-11-2026,09:00,241.5
