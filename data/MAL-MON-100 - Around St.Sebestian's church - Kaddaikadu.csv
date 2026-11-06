@@ -1,6 +1,6 @@
 # well_id: MAL-MON-100
 # location: Around St.Sebestian's church - Kaddaikadu
-# recorded_at: 05-11-2026 23:07 (site local time)
+# recorded_at: 06-11-2026 22:37 (site local time)
 # units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum - as served by the dashboard)
 date,time,value
 01-01-2022,00:30,342.91
@@ -44093,3 +44093,4 @@ date,time,value
 05-11-2026,12:00,357.01
 05-11-2026,13:00,356.07
 05-11-2026,14:00,356.07
+05-11-2026,15:00,354.39
