@@ -1,6 +1,6 @@
 # well_id: MAL-MON-009
 # location: Keerakkulama Dumping site - Nuwaragampalatha East
-# recorded_at: 10-11-2026 01:02 (site local time)
+# recorded_at: 10-11-2026 22:42 (site local time)
 # units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum - as served by the dashboard)
 date,time,value
 01-01-2022,00:30,9706.45
@@ -40255,3 +40255,4 @@ date,time,value
 09-11-2026,14:30,9772.21
 09-11-2026,15:30,9771.45
 09-11-2026,16:30,9771.45
+09-11-2026,17:30,9768.99
