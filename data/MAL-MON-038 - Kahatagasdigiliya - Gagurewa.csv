@@ -1,6 +1,6 @@
 # well_id: MAL-MON-038
 # location: Kahatagasdigiliya - Gagurewa
-# recorded_at: 11-11-2026 23:55 (site local time)
+# recorded_at: 14-11-2026 21:52 (site local time)
 # units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum - as served by the dashboard)
 date,time,value
 01-01-2022,00:30,10943.01
@@ -42592,3 +42592,4 @@ date,time,value
 11-11-2026,11:00,10963.2
 11-11-2026,12:00,10961.67
 11-11-2026,13:00,10961.67
+11-11-2026,14:00,10959.97

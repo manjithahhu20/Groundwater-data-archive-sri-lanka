@@ -1,6 +1,6 @@
 # well_id: MAL-MON-037
 # location: Mankulama village - Mihinthale
-# recorded_at: 13-11-2026 23:05 (site local time)
+# recorded_at: 14-11-2026 21:52 (site local time)
 # units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum - as served by the dashboard)
 date,time,value
 01-01-2022,00:30,10090.84
@@ -42167,3 +42167,6 @@ date,time,value
 13-11-2026,13:00,10105.18
 13-11-2026,14:00,10104.49
 13-11-2026,15:00,10103.72
+13-11-2026,16:00,10103.92
+13-11-2026,17:00,10103.67
+13-11-2026,18:00,10103.21

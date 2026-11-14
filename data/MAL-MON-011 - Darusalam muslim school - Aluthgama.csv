@@ -1,6 +1,6 @@
 # well_id: MAL-MON-011
 # location: Darusalam muslim school - Aluthgama
-# recorded_at: 13-11-2026 23:05 (site local time)
+# recorded_at: 14-11-2026 21:52 (site local time)
 # units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum - as served by the dashboard)
 date,time,value
 01-01-2022,00:30,6166.56
@@ -44730,3 +44730,10 @@ date,time,value
 13-11-2026,06:00,5982.47
 13-11-2026,07:00,5982.11
 13-11-2026,08:00,5982.11
+13-11-2026,09:00,5982.81
+13-11-2026,10:00,5983.42
+13-11-2026,11:00,5983.6
+13-11-2026,12:00,5984.46
+13-11-2026,13:00,5983.11
+13-11-2026,14:00,5982.22
+13-11-2026,15:00,5983.15
