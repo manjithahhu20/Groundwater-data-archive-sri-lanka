@@ -1,6 +1,6 @@
 # well_id: MAL-MON-066
 # location: Maniyarkulam - cheddikulam
-# recorded_at: 15-11-2026 22:21 (site local time)
+# recorded_at: 17-11-2026 01:23 (site local time)
 # units: groundwater level in cmNAP (centimetres relative to the NAP sea-level datum - as served by the dashboard)
 date,time,value
 01-01-2022,00:30,5859.87
@@ -42682,3 +42682,10 @@ date,time,value
 15-11-2026,13:00,5586.45
 15-11-2026,14:00,5586.57
 15-11-2026,15:00,5587.33
+15-11-2026,16:00,5586.05
+15-11-2026,17:00,5585.92
+15-11-2026,18:00,5586.18
+15-11-2026,19:00,5586.62
+15-11-2026,20:00,5586.66
+15-11-2026,21:00,5587.46
+15-11-2026,22:00,5587.73
